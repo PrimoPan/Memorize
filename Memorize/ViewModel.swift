@@ -4,7 +4,10 @@
 //
 //  Created by Primo Jay Pan on 2023/3/7.
 //
-
+/*
+Some Notes By Primo
+  this part is the 'ViewModel' in the MVVM framework
+ */
 import SwiftUI
 
 func MakeCardContent(n : Int) -> String
